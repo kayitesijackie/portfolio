@@ -1,5 +1,5 @@
 # Portfolio #
-#### This is my portfolio, 2018
+#### This is my portfolio
 #### By **Kayitesi Jackie**
 ## Description
 This is a web page contains information about me and projects I have done.
